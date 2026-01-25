@@ -1,6 +1,6 @@
 # PLS_MSS
 
-PLS_MSS is the program to train PLS regression using MSS signals.
+PLS_MSS is a program for training PLS regression models using MSS signals.
 
 # Required Packages
 
